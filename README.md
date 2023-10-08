@@ -1,5 +1,6 @@
-# Unlearning in Federated Online Learning to Rank
-paper under review in ECIR 2024.
+# How to Forget Clients in Federated Online Learning to Rank?
+- paper under review in ECIR 2024.
+- code for reproducing the results will be released after acceptance.
 
 ## Results
 
